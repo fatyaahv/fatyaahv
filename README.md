@@ -8,7 +8,7 @@
 ### 🪄 About Me  
 
 🎓 I'm a Computer Engineering student who loves exploring new technologies and building creative projects.  
-🌱 Currently learning and developing projects in **Python**, **JavaScript**, **HTML**, **CSS**, and **SQL**.  
+🌱 Currently learning and developing projects in **Python**, **JavaScript**.  
 ⚙️ I enjoy combining **AI, web technologies, and automation** to solve real-world problems.  
 🌍 I’m also passionate about **cybersecurity** and **smart systems**.  
 📈 Always eager to learn, improve, and share knowledge with others.
@@ -53,12 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatyaahv&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatyaahv&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
@@ -70,9 +64,6 @@
 
 ---
 
-### 💬 Quote I Live By  
-
-> "The best way to predict the future is to create it." – Peter Drucker  
 
 ---
 
