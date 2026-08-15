@@ -1,13 +1,13 @@
 <!-- Profile README for Fatima Humbatli -->
 
 <h1 align="center">Hi there 👋, I'm Fatima Humbatli</h1>
-<h3 align="center">💻 Computer Engineering Student | Passionate about AI, Web Development & Cybersecurity</h3>
+<h3 align="center">💻 Computer Engineering Graduate | Passionate about AI, Web Development & Cybersecurity</h3>
 
 ---
 
 ### 🪄 About Me  
 
-🎓 I'm a Computer Engineering student who loves exploring new technologies and building creative projects.  
+🎓 I'm a Computer Engineering graduate who loves exploring new technologies and building creative projects.  
 🌱 Currently learning and developing projects in **Python**, **JavaScript**.  
 ⚙️ I enjoy combining **AI, web technologies, and automation** to solve real-world problems.  
 🌍 I’m also passionate about **cybersecurity** and **smart systems**.  
@@ -55,7 +55,7 @@
 
 ---
 
-### ✨ Fun Touch  
+### ✨ More 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+always+learning+and+creating!;Let's+build+something+awesome+🚀" alt="Typing animation" />
